@@ -13,20 +13,21 @@
 ## Questions
 1. How this code can sort number from smaller to larger
  
-Answer: 
+Answer: use bubble sort
 
 2. What if two numbers equal, what will happen? 
 
-Answer: 
+Answer: if two numbers equal, it no swapping
 
 3. How many times at line 24 will be executed (as a function of the size of input) 
 
-Answer: 
+Answer: 27
 
 4. Why we need flag variable ? 
 
-Answer: 
+Answer:  sort number until sort finish when finish it go out from while loop
 
 5. When we remove the flag variable, the code will run faster or slower? in which scenario? 
 
-Answer:
+Answer: it run faster because big o change from n^2 to n
+        dd8bac8a
